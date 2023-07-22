@@ -1,0 +1,157 @@
+.p {
+    margin: 0px;
+    padding: 0px;
+}
+.parallax-0 {
+    width: 100% 100%;
+    height: 600px;
+    background: url("https://pm1.aminoapps.com/7080/26b5aea1818dd4880c9d31c0297d2db357a6dd7er1-2048-1536v2_uhq.jpg");
+    background-size:100% 100%;
+    background-attachment: fixed;
+}
+
+.parallax-0 h2 {
+    margin: auto;
+    position: relative;
+    left: 500x;
+    top: 300px;
+    width: 250px;
+    height: 37px;
+    padding: 10px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    font-family: Arial;
+    
+}
+
+.parallax-1 {
+    width: 100% 100%;
+    height: 600px;
+    background: url("https://pm1.aminoapps.com/7080/26b5aea1818dd4880c9d31c0297d2db357a6dd7er1-2048-1536v2_uhq.jpg");
+    background-size:100% 100%;
+    background-attachment: fixed;
+}
+
+
+.parallax-1 h1 {
+    margin: solid;
+    margin-left: 480px;
+    position: center;
+    left: 500px;
+    top: 300px;
+    width: 250px;
+    height: 92px;
+    padding: 10px;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+
+.parallax-2 {
+    width: 100%;
+    height: 600px;
+    background: url(
+"https://pm1.aminoapps.com/7080/26b5aea1818dd4880c9d31c0297d2db357a6dd7er1-2048-1536v2_uhq.jpg");
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+
+
+.parallax-2 h2 {
+    
+    margin: auto;
+    position: relative;
+    left: 500x;
+    top: 300px;
+    width: 250px;
+    height: 37px;
+    padding: 10px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    font-family: Arial;
+}
+
+
+.para-1 {
+    padding: 50px;
+    background-color: black;
+    color: white;
+    font-size: 17px;
+}
+
+
+.para-2 {
+    text-align: center;
+    padding: 25px;
+    font-size: 17px;
+    font-family: Arial;
+    background-color: black;
+    color: white;
+}
+
+.parallax-3 {
+    width: 100%;
+    height: 600px;
+    background: url(
+"https://pm1.aminoapps.com/7080/26b5aea1818dd4880c9d31c0297d2db357a6dd7er1-2048-1536v2_uhq.jpg");
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+
+.parallax-3 h2 {
+    
+    margin: auto;
+    position: relative;
+    left: 500x;
+    top: 300px;
+    width: 250px;
+    height: 37px;
+    padding: 10px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    font-family: Arial;
+}
+
+.parallax-4 {
+    width: 100% 100%;
+    height: 600px;
+    background: url("https://pm1.aminoapps.com/7080/26b5aea1818dd4880c9d31c0297d2db357a6dd7er1-2048-1536v2_uhq.jpg");
+    background-size:100% 100%;
+    background-attachment: fixed;
+}
+
+
+.parallax-4 h2 {
+    margin: auto;
+    position: relative;
+    left: 500x;
+    top: 300px;
+    width: 250px;
+    height: 37px;
+    padding: 10px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    font-family: Arial;
+    
+}
+
+
+.para-3{
+    text-align: center;
+    padding: 25px;
+    font-size: 17px;
+    font-family: Arial;
+    background-color: black;
+    color: white;
+
+}
+

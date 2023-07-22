@@ -1,0 +1,39 @@
+*{
+    background-color: black;
+    color :aliceblue;
+    
+}
+.intro h2{
+    text-align: center;
+    background-color: rgb(151, 5, 156);
+    color : white;
+    margin-left: 400px;
+    margin-right: 400px;
+}
+.intro p{
+    background-color: rgb(151, 5, 156);
+    margin-bottom: 50px;
+}
+.biodata{
+    background-color: rgb(151, 5, 156); 
+
+}
+.fa {
+    padding: 10px;
+    font-size: 25px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+  }
+  .fa:hover {
+    opacity: 0.7;
+  }
+  .fa-spotify {
+    background: green;
+    color: black;
+  }
+  .fa-instagram {
+    background: #E4405F;
+    color: white;
+  }

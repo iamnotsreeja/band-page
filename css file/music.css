@@ -1,0 +1,27 @@
+*{
+    background-color: black;
+    
+}
+.heading h1{
+    font-family: 'serif';
+    text-align: center;
+    text-decoration: underline;
+    color: aliceblue;
+}
+.heading h3{
+    text-align: center;
+    color: yellow;
+}
+.content {
+    text-align: center;
+    color: white;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.content h3{
+    color:yellow;
+    text-align: justify;
+}
+.list{
+    text-align: justify;
+}
